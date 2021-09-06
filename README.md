@@ -6,4 +6,5 @@ I had s training set of 52 cards imaged and test set of 800 images. Training set
 ***
 
 I have uploded ipnyb file clso so it can run in colab.
+....
 
